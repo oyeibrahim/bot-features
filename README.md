@@ -29,5 +29,3 @@ sending files
 receiving files
 
 start command implemented with async to demonstrate how to use async with Telegraf
-
-Contact me: oyetunjiibrahim@gmail.com
